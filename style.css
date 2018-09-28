@@ -1,0 +1,46 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    width: 450px;
+    background-color: red;
+    
+}
+
+body{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightgrey;
+}
+
+.bloco{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40pt;
+    font-family: 'Comic Sans MS', sans-serif;
+    color: white;
+}
+
+/* button{
+    dis
+    width: 40px;
+    height: 20;
+    background-color: blue;
+    color: white;
+    justify-content: flex-end; */
+
+/* 
+.casas{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+} */
