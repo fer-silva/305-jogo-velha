@@ -35,8 +35,8 @@ function verificar(quem) {
         
     }       
     else if (contaCliques == 9) {
-        resultado.innerHTML = `Deu velha`;
-    }
+        resultado.innerHTML = `Deu idosa`;
+     }
 }
 
 // (resultado.innerHTML.search == resultado||
